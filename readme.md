@@ -4,7 +4,7 @@ This project demonstrates how to deploy a **Machine Learning model** (Cat vs Dog
 
 ## 📌 Overview
 - Built a REST API for ML model inference using FastAPI
-- Integrated a pre-trained **Cat vs Dog CNN model** (from [previous project](https://github.com/Om018/Cat-Vs-Dog-Classifier-Using-TensorFlow-Keras ))
+- Integrated a pre-trained **Cat vs Dog CNN model** (from [previous project](https://github.com/Omg018/Cat-Vs-Dog-Classifier-Using-TensorFlow-Keras ))
 - Added advanced features:
   - Pydantic request validation
   - Async support
@@ -60,7 +60,7 @@ The included **Dockerfile** lets you deploy this anywhere:
 - **Azure Container Instances**
 
 ## 🔗 Previous Projects
-- (https://github.com/Omg018/Cat-Vs-Dog-Classifier-Using-TensorFlow-Keras)** 
+- (from [Link](https://github.com/Omg018/Cat-Vs-Dog-Classifier-Using-TensorFlow-Keras))
 
 ## 📝 Notes
 - This implementation uses the same Cat vs Dog CNN model from our previous training project.
